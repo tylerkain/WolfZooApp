@@ -1,2 +1,2 @@
 # WolfZooApp
-WolfZooApp
+This is a Wolf app designed for use at Zoos or Wildlife conservation centers to display generic information Wolves to include Habtit, Size, Ecology, Behavior. It also will display information about the wolves specific to the Zoo or Conservation Center to display there age, behavior, and name. This app will also show historrical information and current information of wolves in North America
