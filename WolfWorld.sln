@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WolfWorld", "WolfWorld.csproj", "{F18BBF43-52AE-4CF0-8AC8-124A932E0E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitWolfTest", "..\NUnitWolfTest\NUnitWolfTest.csproj", "{82E03981-4162-46C3-8507-94272BE90D18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18BBF43-52AE-4CF0-8AC8-124A932E0E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18BBF43-52AE-4CF0-8AC8-124A932E0E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18BBF43-52AE-4CF0-8AC8-124A932E0E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18BBF43-52AE-4CF0-8AC8-124A932E0E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E03981-4162-46C3-8507-94272BE90D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E03981-4162-46C3-8507-94272BE90D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E03981-4162-46C3-8507-94272BE90D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E03981-4162-46C3-8507-94272BE90D18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {337FD46C-DDB9-4B71-964E-9AA060C6F2B9}
+	EndGlobalSection
+EndGlobal
